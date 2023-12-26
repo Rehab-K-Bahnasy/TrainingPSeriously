@@ -1,0 +1,3 @@
+F:/TrainingPSeriously/cmake-build-debug/CMakeFiles/TrainingPSeriously.dir
+F:/TrainingPSeriously/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/TrainingPSeriously/cmake-build-debug/CMakeFiles/rebuild_cache.dir
